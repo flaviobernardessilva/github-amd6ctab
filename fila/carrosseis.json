@@ -1,50 +1,92 @@
 [
-  {
-    "id": "QUEM É A ATIVYA",
-    "nome": "quem-somos",
-    "slides": 6,
-    "legenda": "Você trabalha demais no que a IA faz em segundos. 🧠\n\nA ATIVYA é um método prático para usar IA em vendas, atendimento e produtividade. Sem teoria, sem código, sem enrolação.\n\n👉 Comece pelo guia grátis com 10 prompts no link da bio.\n📌 Salve e siga @metodoativya.\n\n#inteligenciaartificial #IAparanegocios #vendas #empreendedorismo #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 8",
-    "nome": "c8",
-    "slides": 6,
-    "legenda": "+176%: o quanto as empresas brasileiras aumentaram o gasto com IA em 2026. 📈\n\nQuem testou não voltou atrás. E para começar, você não precisa gastar nada.\n\n📌 Salva e testa o prompt do slide 5.\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\nFonte: levantamento Pluggy, divulgado pela TI Inside em 11/11/2026.\n\n#inteligenciaartificial #IAparanegocios #empreendedorismo #pequenasempresas #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 2",
-    "nome": "c2",
-    "slides": 7,
-    "legenda": "15 minutos por dia. Uma tarefa por vez. É assim que a IA entra no seu negócio sem bagunça. 🧠\n\n📌 Salva e começa amanhã.\n💬 Comenta GUIA e eu te mando o guia grátis.\n📘 Técnicas e rotinas no Bônus 1 do Método 40 Dias — metodoativya.com.br\n\n#inteligenciaartificial #produtividade #IAparanegocios #gestao #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 3",
-    "nome": "c3",
-    "slides": 6,
-    "legenda": "Desconto é falta de argumento. 💸\n\n3 respostas prontas + o prompt que gera outras na hora.\n\n📌 Salva para a próxima vez que ouvir \"tá caro\".\n💬 Comenta GUIA e pega 10 prompts grátis.\n📘 Roteiros completos no Bônus 2 do Método 40 Dias — metodoativya.com.br\n\n#vendas #negociacao #objecoes #inteligenciaartificial #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 4",
-    "nome": "c4",
-    "slides": 7,
-    "legenda": "Uma semana de conteúdo em 10 minutos. Sem travar na página em branco. ⚡\n\n📌 Salva e usa no domingo.\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 100 prompts no Bônus 3 do Método 40 Dias — metodoativya.com.br\n\n#marketingdigital #promptsIA #chatgpt #conteudo #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 5",
-    "nome": "c5",
-    "slides": 6,
-    "legenda": "Mesmo negócio. Mesma equipe. Resultado diferente. ⚙️\n\nEm qual coluna você está hoje?\n\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · garantia de 7 dias\n👉 metodoativya.com.br — link na bio\n\n#IAparanegocios #automacao #empreendedorismo #produtividade #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 6",
-    "nome": "c6",
-    "slides": 6,
-    "legenda": "O problema quase nunca é a IA. É o pedido. 🎯\n\n📌 Salva e confere antes do próximo prompt.\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 100 prompts no Bônus 3 do Método 40 Dias — metodoativya.com.br\n\n#chatgpt #promptsIA #inteligenciaartificial #produtividade #ATIVYA"
-  },
-  {
-    "id": "CARROSSEL 7",
-    "nome": "c7",
-    "slides": 8,
-    "legenda": "Quem não automatiza trabalha para quem automatizou. 🧠\n\nEscolhe 1 dessas 6 e começa hoje.\n\n📌 Salva este post.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · garantia de 7 dias\n👉 metodoativya.com.br — link na bio\n\n#automacao #inteligenciaartificial #negocios #produtividade #ATIVYA"
-  }
+ {
+  "id": "QUEM É A ATIVYA",
+  "nome": "quem-somos",
+  "slides": 6,
+  "legenda": "Você trabalha demais no que a IA faz em segundos. 🧠\n\nA ATIVYA é um método prático para usar IA em vendas, atendimento e produtividade. Sem teoria, sem código, sem enrolação.\n\n👉 Comece pelo guia grátis com 10 prompts no link da bio.\n📌 Salve e siga @metodoativya.\n\n#inteligenciaartificial #IAparanegocios #vendas #empreendedorismo #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 8",
+  "nome": "c8",
+  "slides": 6,
+  "legenda": "+176%: o quanto as empresas brasileiras aumentaram o gasto com IA em 2026. 📈\n\nQuem testou não voltou atrás. E para começar, você não precisa gastar nada.\n\n📌 Salva e testa o prompt do slide 5.\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\nFonte: levantamento Pluggy, divulgado pela TI Inside em 11/11/2026.\n\n#inteligenciaartificial #IAparanegocios #empreendedorismo #pequenasempresas #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 2",
+  "nome": "c2",
+  "slides": 7,
+  "legenda": "15 minutos por dia. Uma tarefa por vez. É assim que a IA entra no seu negócio sem bagunça. 🧠\n\n📌 Salva e começa amanhã.\n💬 Comenta GUIA e eu te mando o guia grátis.\n📘 Técnicas e rotinas no Bônus 1 do Método 40 Dias — metodoativya.com.br\n\n#inteligenciaartificial #produtividade #IAparanegocios #gestao #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 3",
+  "nome": "c3",
+  "slides": 6,
+  "legenda": "Desconto é falta de argumento. 💸\n\n3 respostas prontas + o prompt que gera outras na hora.\n\n📌 Salva para a próxima vez que ouvir \"tá caro\".\n💬 Comenta GUIA e pega 10 prompts grátis.\n📘 Roteiros completos no Bônus 2 do Método 40 Dias — metodoativya.com.br\n\n#vendas #negociacao #objecoes #inteligenciaartificial #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 4",
+  "nome": "c4",
+  "slides": 7,
+  "legenda": "Uma semana de conteúdo em 10 minutos. Sem travar na página em branco. ⚡\n\n📌 Salva e usa no domingo.\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 100 prompts no Bônus 3 do Método 40 Dias — metodoativya.com.br\n\n#marketingdigital #promptsIA #chatgpt #conteudo #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 5",
+  "nome": "c5",
+  "slides": 6,
+  "legenda": "Mesmo negócio. Mesma equipe. Resultado diferente. ⚙️\n\nEm qual coluna você está hoje?\n\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · garantia de 7 dias\n👉 metodoativya.com.br — link na bio\n\n#IAparanegocios #automacao #empreendedorismo #produtividade #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 6",
+  "nome": "c6",
+  "slides": 6,
+  "legenda": "O problema quase nunca é a IA. É o pedido. 🎯\n\n📌 Salva e confere antes do próximo prompt.\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 100 prompts no Bônus 3 do Método 40 Dias — metodoativya.com.br\n\n#chatgpt #promptsIA #inteligenciaartificial #produtividade #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 7",
+  "nome": "c7",
+  "slides": 8,
+  "legenda": "Quem não automatiza trabalha para quem automatizou. 🧠\n\nEscolhe 1 dessas 6 e começa hoje.\n\n📌 Salva este post.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · garantia de 7 dias\n👉 metodoativya.com.br — link na bio\n\n#automacao #inteligenciaartificial #negocios #produtividade #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 9",
+  "nome": "c9",
+  "slides": 7,
+  "legenda": "5 prompts pra descobrir qual serviço com IA você pode oferecer. 🧭\n\nDo \"não sei por onde começar\" até a primeira mensagem pro dono do negócio.\nCopia, troca os [colchetes] e cola no ChatGPT ou Claude.\n📌 Salva pra fazer com calma.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#promptsIA #chatgpt #rendacomia #inteligenciaartificial #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 10",
+  "nome": "c10",
+  "slides": 6,
+  "legenda": "9 itens pra checar antes de vender qualquer serviço com IA. ✅\n\nAntes de falar com o cliente, na entrega e depois.\nO item que mais derruba iniciante: entregar sem revisar.\n📌 Salva e confere antes de cada entrega.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#checklist #rendacomia #inteligenciaartificial #freelancer #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 11",
+  "nome": "c11",
+  "slides": 7,
+  "legenda": "Sem IA x com IA: 5 cenas de qualquer pequeno negócio. ⚖️\n\nWhatsApp, Instagram, orçamento, avaliações e catálogo.\nCada lado direito é algo que um dono de negócio paga pra alguém fazer.\n📲 Manda pra quem quer começar a prestar serviço com IA.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#antesedepois #inteligenciaartificial #pequenosnegocios #rendacomia #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 12",
+  "nome": "c12",
+  "slides": 6,
+  "legenda": "8 em cada 10 pequenos negócios já usam ou planejam usar IA. 📊\n\n📰 Fonte: Sebrae, Pesquisa Pulso dos Pequenos Negócios (divulgada em 9/11/2026), e pesquisa Transformação Digital nos Pequenos Negócios 2026 (Sebrae + Meta Instituto de Pesquisa).\nO uso mais citado no marketing: imagens e vídeos (74%) e textos (65%).\nO dono quer usar. Falta quem saiba aplicar.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#inteligenciaartificial #pequenosnegocios #sebrae #rendacomia #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 13",
+  "nome": "c13",
+  "slides": 7,
+  "legenda": "Para de mandar um preço só. Manda 3 opções. 🧾\n\nCom uma opção o cliente decide entre sim ou não. Com três, ele decide qual.\nPasso a passo + prompt pronto neste carrossel.\nProposta em 3 opções, 12 objeções e follow-up estão no Bônus 2 \"Vender sem medo\" do Método 40 Dias.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#vendas #proposta #rendacomia #freelancer #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 14",
+  "nome": "c14",
+  "slides": 7,
+  "legenda": "\"Tá caro\", \"vou pensar\", \"meu sobrinho faz\": o que responder. 🛡️\n\nObjeção não é rejeição. É o cliente dizendo o que falta pra decidir.\n4 respostas prontas + prompt pra treinar com a IA.\nAs 12 objeções completas estão no Bônus 2 \"Vender sem medo\" do Método 40 Dias.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#vendas #objecoes #medodevender #rendacomia #ATIVYA"
+ },
+ {
+  "id": "CARROSSEL 15",
+  "nome": "c15",
+  "slides": 7,
+  "legenda": "7 dias pra sair do zero com IA. Sem curso, sem código. 🚀\n\nUm passo por dia: testar, usar, praticar, mostrar.\nQuer continuar depois do dia 7? O Método ATIVYA 40 Dias tem 40 missões diárias, e o Bônus 1 \"IA na Prática\" traz um treino de 7 dias.\n📌 Salva e começa hoje.\n\n💬 Comenta GUIA e eu te mando 10 prompts grátis.\n📘 Método ATIVYA 40 Dias + 3 e-books bônus por R$ 19,90 · metodoativya.com.br\n\n#inteligenciaartificial #chatgpt #iniciantes #rendacomia #ATIVYA"
+ }
 ]

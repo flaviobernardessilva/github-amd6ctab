@@ -1,0 +1,1128 @@
+{
+ "reels": [
+  {
+   "nome": "reel16",
+   "bpm": 138,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Faltam *39 dias* pro Natal.",
+     "tam": 130,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "Dá pra aprender uma *habilidade nova*.",
+     "tam": 100,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "Ou repetir a *mesma resposta* na ceia.",
+     "tam": 100,
+     "dur": 2.2
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel17",
+   "bpm": 142,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Você não está atrasado.",
+     "tam": 120,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "Está *parado*.",
+     "tam": 150,
+     "dur": 1.6
+    },
+    {
+     "tipo": "T",
+     "titulo": "Atrasado ainda anda. Parado só *assiste*.",
+     "tam": 96,
+     "dur": 2.4
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel18",
+   "bpm": 135,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "*96%* conhecem IA.",
+     "tam": 140,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "Só *46%* usam no negócio.",
+     "tam": 120,
+     "sub": "Sebrae + FGV IBRE",
+     "dur": 2.2
+    },
+    {
+     "tipo": "T",
+     "titulo": "Essa diferença tem nome: *oportunidade*.",
+     "tam": 96,
+     "dur": 2.3
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel19",
+   "bpm": 130,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Pensou em *desistir* hoje?",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "Normal.",
+     "tam": 150,
+     "dur": 1.3
+    },
+    {
+     "tipo": "T",
+     "titulo": "Troca o *plano*. Não o sonho.",
+     "tam": 120,
+     "dur": 2.2
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel20",
+   "bpm": 140,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "*6%* nem sabem o que é IA.",
+     "tam": 120,
+     "sub": "Sebrae, Pulso dos Pequenos Negócios",
+     "dur": 2.2
+    },
+    {
+     "tipo": "T",
+     "titulo": "Esses negócios estão no seu *bairro*.",
+     "tam": 104,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "Alguém vai ajudar eles. Por que não *você*?",
+     "tam": 96,
+     "dur": 2.3
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel21",
+   "bpm": 144,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Quem paga não liga pro seu *diploma*.",
+     "tam": 104,
+     "dur": 2.1
+    },
+    {
+     "tipo": "T",
+     "titulo": "Liga pro *problema resolvido*.",
+     "tam": 110,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "A IA faz rápido. *Você* entrega.",
+     "tam": 110,
+     "dur": 2.0
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel22",
+   "bpm": 136,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "O que o dono da padaria *quer*:",
+     "tam": 110,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "Post pronto. Vídeo pronto. *Sem gravar*.",
+     "tam": 100,
+     "dur": 2.2
+    },
+    {
+     "tipo": "T",
+     "titulo": "*74%* de quem usa IA no marketing faz isso.",
+     "tam": 90,
+     "sub": "Sebrae, nov/2026",
+     "dur": 2.4
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Quem sabe fazer isso, vende isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel23",
+   "bpm": 141,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Seu celular é uma *fábrica*.",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "Você usa como *TV*.",
+     "tam": 130,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "Mesmo aparelho. *Outra decisão*.",
+     "tam": 110,
+     "dur": 2.1
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel24",
+   "bpm": 132,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "\"Amanhã eu *começo*.\"",
+     "tam": 130,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "Amanhã virou *ano*.",
+     "tam": 130,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "Hoje: *1 missão*. 15 minutos.",
+     "tam": 110,
+     "dur": 2.1
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Marca quem vive dizendo \"amanhã\".",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel25",
+   "bpm": 137,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Não é falta de *talento*.",
+     "tam": 120,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "É falta de um *plano com data*.",
+     "tam": 110,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "40 missões. *Uma por dia*.",
+     "tam": 120,
+     "dur": 2.0
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Método ATIVYA 40 Dias",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel26",
+   "bpm": 139,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Metade do mercado já *mudou*.",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "*52%* usaram IA nas últimas 2 semanas.",
+     "tam": 96,
+     "sub": "Sebrae + Meta Instituto de Pesquisa, 2026",
+     "dur": 2.4
+    },
+    {
+     "tipo": "T",
+     "titulo": "A outra metade precisa de *alguém*.",
+     "tam": 110,
+     "dur": 2.0
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel27",
+   "bpm": 143,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Ninguém vai vir te *salvar*.",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "Nem o chefe. Nem a sorte.",
+     "tam": 120,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "Só o que você *aprender agora*.",
+     "tam": 110,
+     "dur": 2.1
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel28",
+   "bpm": 134,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Medo de vender? Faz uma *pergunta*.",
+     "tam": 104,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "\"O que mais trava seu negócio hoje?\"",
+     "tam": 96,
+     "dur": 2.2
+    },
+    {
+     "tipo": "T",
+     "titulo": "Quem pergunta *não implora*.",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Bônus 2: Vender sem medo",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel29",
+   "bpm": 145,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Dezembro vai chegar *igual*?",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "Mesmas contas. Mesma rotina. *Mesma desculpa*.",
+     "tam": 92,
+     "dur": 2.4
+    },
+    {
+     "tipo": "T",
+     "titulo": "Ou com *1 habilidade nova*.",
+     "tam": 120,
+     "dur": 2.0
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel30",
+   "bpm": 133,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "As *5 fases* de aprender IA",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "L",
+     "titulo": "",
+     "itens": [
+      [
+       "1. *Empolgado*",
+       ""
+      ],
+      [
+       "2. Perdido",
+       ""
+      ],
+      [
+       "3. Travado",
+       ""
+      ],
+      [
+       "4. Primeiro prompt que funciona",
+       ""
+      ],
+      [
+       "5. *Primeira proposta enviada*",
+       ""
+      ]
+     ],
+     "tam": 60,
+     "dur": 3.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "A maioria para na *fase 3*.",
+     "tam": 120,
+     "dur": 1.9
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Em qual fase você está?",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel31",
+   "bpm": 128,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Janeiro: \"esse ano *vai*.\"",
+     "tam": 120,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "Novembro: *mesma vida*.",
+     "tam": 120,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "O tempo passou. *Você ficou?*",
+     "tam": 110,
+     "dur": 2.2
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel32",
+   "bpm": 136,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Música de Natal *liberada*. 🎄",
+     "tam": 110,
+     "dur": 1.9
+    },
+    {
+     "tipo": "T",
+     "titulo": "Desculpa de \"ano que vem\": *não*.",
+     "tam": 104,
+     "dur": 2.1
+    },
+    {
+     "tipo": "T",
+     "titulo": "*39 dias* ainda dão pra começar.",
+     "tam": 110,
+     "dur": 2.0
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel33",
+   "bpm": 140,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Antes x *depois* da IA",
+     "tam": 130,
+     "dur": 1.8
+    },
+    {
+     "tipo": "VS",
+     "area": "Atendimento",
+     "sem": "3h por dia respondendo a mesma pergunta",
+     "com": "Respostas prontas em 30 segundos",
+     "dur": 2.6
+    },
+    {
+     "tipo": "VS",
+     "area": "Conteúdo",
+     "sem": "Página em branco toda semana",
+     "com": "Uma semana de posts em 10 minutos",
+     "dur": 2.6
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel34",
+   "bpm": 131,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "\"Eu só queria *ganhar bem* e...\"",
+     "tam": 104,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "...parar de depender de *um só chefe*.",
+     "tam": 104,
+     "dur": 2.2
+    },
+    {
+     "tipo": "T",
+     "titulo": "Então aprendi algo que negócio *compra*.",
+     "tam": 100,
+     "dur": 2.2
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel35",
+   "bpm": 135,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Trabalho dos sonhos: *de casa, com IA*.",
+     "tam": 100,
+     "dur": 2.0
+    },
+    {
+     "tipo": "T",
+     "titulo": "Realidade: testando prompt às *23h*.",
+     "tam": 104,
+     "dur": 2.1
+    },
+    {
+     "tipo": "T",
+     "titulo": "Ninguém mostra essa parte. *Ela funciona*.",
+     "tam": 96,
+     "dur": 2.3
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "nome": "reel36",
+   "bpm": 142,
+   "cenas": [
+    {
+     "tipo": "T",
+     "titulo": "Carregando *nova versão*...",
+     "tam": 120,
+     "dur": 1.7
+    },
+    {
+     "tipo": "T",
+     "titulo": "*0%*: \"IA não é pra mim.\"",
+     "tam": 110,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "*50%*: 1 prompt por dia.",
+     "tam": 120,
+     "dur": 1.8
+    },
+    {
+     "tipo": "T",
+     "titulo": "*100%*: primeira proposta enviada.",
+     "tam": 104,
+     "dur": 2.0
+    },
+    {
+     "tipo": "RCTA",
+     "extra": "Manda pra quem precisa ouvir isso.",
+     "dur": 2.6
+    }
+   ]
+  }
+ ],
+ "carrosseis": [
+  {
+   "nome": "c9",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "5 prompts pra descobrir seu *primeiro serviço* com IA",
+     "tam": 88,
+     "kicker": "Prompts prontos"
+    },
+    {
+     "tipo": "P",
+     "titulo": "1. Seu ponto de partida",
+     "prompt": "Liste 5 serviços com IA que posso oferecer a pequenos negócios usando o que já sei: [suas habilidades].",
+     "nota": "Troque o que está entre [colchetes]."
+    },
+    {
+     "tipo": "P",
+     "titulo": "2. Quem compra",
+     "prompt": "Quais tipos de negócio do meu bairro mais precisam de [serviço]? Liste 10 com o problema de cada um."
+    },
+    {
+     "tipo": "P",
+     "titulo": "3. A oferta simples",
+     "prompt": "Escreva uma oferta de 3 linhas para [serviço] voltada a [tipo de negócio], sem jargão."
+    },
+    {
+     "tipo": "P",
+     "titulo": "4. A amostra grátis",
+     "prompt": "Crie 3 exemplos de [entrega] para [negócio] que eu possa mandar de presente ao dono."
+    },
+    {
+     "tipo": "P",
+     "titulo": "5. A primeira mensagem",
+     "prompt": "Escreva uma mensagem curta de WhatsApp apresentando essa amostra ao dono de [negócio], tom direto e educado."
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Teste 1 prompt *hoje*.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "c10",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "Checklist antes de oferecer *serviço com IA*",
+     "tam": 92,
+     "kicker": "Checklist"
+    },
+    {
+     "tipo": "L",
+     "titulo": "Antes de falar com o cliente",
+     "itens": [
+      [
+       "✓ Escolheu *1* serviço",
+       "Não 7. Um."
+      ],
+      [
+       "✓ Fez 3 amostras",
+       "Prova vale mais que promessa."
+      ],
+      [
+       "✓ Sabe o tempo de entrega",
+       "Prazo claro passa confiança."
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "Na entrega",
+     "itens": [
+      [
+       "✓ Revisou tudo",
+       "A IA erra nome, preço e detalhe."
+      ],
+      [
+       "✓ Ajustou ao tom da marca",
+       "Texto genérico denuncia."
+      ],
+      [
+       "✓ Guardou o prompt que deu certo",
+       "Vira processo."
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "Depois",
+     "itens": [
+      [
+       "✓ Pediu retorno",
+       "\"O que eu melhoro?\""
+      ],
+      [
+       "✓ Ofereceu continuidade",
+       "Mensalidade > serviço avulso."
+      ],
+      [
+       "✓ Anotou o resultado",
+       "Vira argumento pro próximo."
+      ]
+     ]
+    },
+    {
+     "tipo": "T",
+     "titulo": "Quem pula a revisão *perde o cliente*.",
+     "tam": 96,
+     "sub": "A IA acelera. Quem assina é você."
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Salva e usa no *1º cliente*.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "c11",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "Mesmo negócio. *Sem IA x com IA*.",
+     "tam": 100,
+     "kicker": "Antes / depois"
+    },
+    {
+     "tipo": "VS",
+     "area": "WhatsApp",
+     "sem": "Cliente esperando 4 horas",
+     "com": "Resposta-modelo pronta em segundos"
+    },
+    {
+     "tipo": "VS",
+     "area": "Instagram",
+     "sem": "Post quando sobra tempo",
+     "com": "Calendário da semana em 10 minutos"
+    },
+    {
+     "tipo": "VS",
+     "area": "Orçamento",
+     "sem": "Um preço só, \"tá caro\"",
+     "com": "Proposta em 3 opções"
+    },
+    {
+     "tipo": "VS",
+     "area": "Avaliações",
+     "sem": "Crítica sem resposta no Google",
+     "com": "Resposta educada e personalizada"
+    },
+    {
+     "tipo": "VS",
+     "area": "Cardápio / catálogo",
+     "sem": "Descrição \"pizza boa\"",
+     "com": "Texto que dá vontade de pedir"
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Cada *\"com IA\"* é um serviço.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "c12",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "*8 em cada 10* pequenos negócios já usam ou planejam usar IA",
+     "tam": 80,
+     "sub": "Sebrae · Pulso dos Pequenos Negócios · nov/2026",
+     "kicker": "Dado novo"
+    },
+    {
+     "tipo": "L",
+     "titulo": "Como eles estão",
+     "itens": [
+      [
+       "*29%* usam regularmente",
+       ""
+      ],
+      [
+       "*22%* já fizeram testes",
+       ""
+      ],
+      [
+       "*29%* planejam usar em breve",
+       ""
+      ],
+      [
+       "14% não usam nem pretendem",
+       ""
+      ],
+      [
+       "6% não sabem o que é IA",
+       ""
+      ]
+     ],
+     "tam": 60
+    },
+    {
+     "tipo": "L",
+     "titulo": "Pra que usam no marketing",
+     "itens": [
+      [
+       "*74%* imagens e vídeos",
+       ""
+      ],
+      [
+       "*65%* textos",
+       "e-mail, redes sociais e anúncios"
+      ],
+      [
+       "*27%* otimizar anúncios",
+       ""
+      ]
+     ],
+     "tam": 60
+    },
+    {
+     "tipo": "T",
+     "titulo": "A maior barreira não é interesse. É *não saber aplicar*.",
+     "tam": 80,
+     "sub": "Pesquisa Transformação Digital nos Pequenos Negócios 2026 (Sebrae + Meta)"
+    },
+    {
+     "tipo": "T",
+     "titulo": "Quem sabe aplicar IA vira a *ponte*.",
+     "tam": 100,
+     "sub": "Posts, vídeos e textos: é isso que eles já usam e querem."
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Seja *a ponte*.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "c13",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "Sua primeira proposta em *3 opções*",
+     "tam": 100,
+     "kicker": "Passo a passo"
+    },
+    {
+     "tipo": "L",
+     "titulo": "Passo 1 a 3",
+     "itens": [
+      [
+       "1. Pergunte antes",
+       "\"O que mais trava seu negócio hoje?\""
+      ],
+      [
+       "2. Resuma a dor",
+       "Em uma frase, com as palavras do dono."
+      ],
+      [
+       "3. Monte 3 opções",
+       "Básica, completa e mensal."
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "Exemplo",
+     "itens": [
+      [
+       "*Básica*",
+       "8 posts no mês"
+      ],
+      [
+       "*Completa*",
+       "8 posts + respostas no Google"
+      ],
+      [
+       "*Mensal*",
+       "Tudo isso, todo mês, sem renegociar"
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "Passo 4 e 5",
+     "itens": [
+      [
+       "4. Destaque a do meio",
+       "A maioria escolhe o equilíbrio."
+      ],
+      [
+       "5. Combine o follow-up",
+       "\"Posso te chamar quinta pra decidir?\""
+      ]
+     ]
+    },
+    {
+     "tipo": "P",
+     "titulo": "Prompt pronto",
+     "prompt": "Monte uma proposta em 3 opções (básica, completa e mensal) para [serviço] para [negócio], com a dor: [dor do cliente]. Linguagem simples.",
+     "nota": "Você define os preços. A IA organiza."
+    },
+    {
+     "tipo": "T",
+     "titulo": "Uma opção = sim ou não. Três = *qual delas*.",
+     "tam": 90
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Proposta pronta em *minutos*.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "c14",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "4 objeções que todo iniciante ouve (e o que responder)",
+     "tam": 86,
+     "kicker": "Vender sem medo"
+    },
+    {
+     "tipo": "L",
+     "titulo": "\"Tá caro.\"",
+     "itens": [
+      [
+       "Não baixe o preço.",
+       "Pergunte: \"Caro comparado a quê?\" e mostre a opção básica."
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "\"Vou pensar.\"",
+     "itens": [
+      [
+       "Descubra o que falta.",
+       "\"Claro. O que ainda te deixa em dúvida?\""
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "\"Meu sobrinho faz.\"",
+     "itens": [
+      [
+       "Não brigue.",
+       "\"Ótimo. Se um dia ele não puder, eu sigo daqui com prazo fixo.\""
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "\"IA não é coisa de robô?\"",
+     "itens": [
+      [
+       "Mostre a amostra.",
+       "\"Veja estes 3 exemplos. Eu reviso tudo antes de publicar.\""
+      ]
+     ]
+    },
+    {
+     "tipo": "P",
+     "titulo": "Treine com a IA",
+     "prompt": "Finja ser dono de [negócio] e me faça 5 objeções difíceis sobre [serviço]. Depois avalie minhas respostas.",
+     "nota": "Treinar antes tira o medo depois."
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Objeção é *pergunta*, não não.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "c15",
+   "slides": [
+    {
+     "tipo": "T",
+     "titulo": "7 dias pra sair do *zero* com IA",
+     "tam": 110,
+     "kicker": "Plano curto"
+    },
+    {
+     "tipo": "L",
+     "titulo": "Dias 1 a 3",
+     "itens": [
+      [
+       "Dia 1",
+       "Crie conta no ChatGPT ou Claude e teste 3 prompts."
+      ],
+      [
+       "Dia 2",
+       "Use IA numa tarefa real sua."
+      ],
+      [
+       "Dia 3",
+       "Aprenda a dar contexto: quem, o quê, pra quem."
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "Dias 4 e 5",
+     "itens": [
+      [
+       "Dia 4",
+       "Escolha 1 serviço pra praticar."
+      ],
+      [
+       "Dia 5",
+       "Faça 3 amostras desse serviço."
+      ]
+     ]
+    },
+    {
+     "tipo": "L",
+     "titulo": "Dias 6 e 7",
+     "itens": [
+      [
+       "Dia 6",
+       "Mostre a 1 negócio real do bairro."
+      ],
+      [
+       "Dia 7",
+       "Peça retorno e ajuste."
+      ]
+     ]
+    },
+    {
+     "tipo": "P",
+     "titulo": "Prompt do dia 3",
+     "prompt": "Você é [papel]. Preciso de [tarefa] para [público]. Tom [tom]. Formato: [formato]. Antes, me faça 3 perguntas.",
+     "nota": "Contexto muda tudo."
+    },
+    {
+     "tipo": "T",
+     "titulo": "7 dias não mudam a vida. Mudam *o ponto de partida*.",
+     "tam": 86
+    },
+    {
+     "tipo": "CTA",
+     "titulo": "Começa *hoje*. Dia 1.",
+     "linhas": [
+      "📌 Salva pra usar depois.",
+      "💬 Comenta *GUIA* e receba 10 prompts grátis.",
+      "Método ATIVYA 40 Dias + 3 e-books bônus · *R$ 19,90* · metodoativya.com.br"
+     ]
+    }
+   ]
+  }
+ ]
+}
